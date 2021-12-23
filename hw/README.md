@@ -1,0 +1,2 @@
+# CS16btech11018_hw2
+_analyticalplanebook_ch2_ex2_ques3(1)
